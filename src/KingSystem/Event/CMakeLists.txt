@@ -5,12 +5,24 @@ target_sources(uking PRIVATE
   evtActorBindings.h
   evtActorManager.cpp
   evtActorManager.h
+  evtBaseProcLink.cpp
+  evtBaseProcLink.h
+  evtContext.cpp
+  evtContext.h
   evtDemoInfo.cpp
   evtDemoInfo.h
   evtEvent.cpp
   evtEvent.h
+  evtEventFlow.cpp
+  evtEventFlow.h
   evtEventResource.cpp
   evtEventResource.h
+  evtFlow.cpp
+  evtFlow.h
+  evtFlowchart.cpp
+  evtFlowchart.h
+  evtFlowManager.cpp
+  evtFlowManager.h
   evtInfoData.cpp
   evtInfoData.h
   evtManager.cpp
